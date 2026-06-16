@@ -1,0 +1,6 @@
+{
+  "name": "Smart Budget Tracking",
+  "description": "Daily income & expenses track, Monthly budget manage, Savings goals achieve, Financial reports generate with AI Insights",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
